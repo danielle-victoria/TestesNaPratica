@@ -1,0 +1,43 @@
+		Curso 1 - Principais Protocolos de Comunicação da Internet
+
+
+				         Resumo
+
+
+	* Statuscode da mensagem response recebida pelo cliente quando ocorre uma solicitação bem-sucedida,
+do tipo Request realizada pelo cliente utilizando o métdo GET: 200 OK.
+	* Recursos que permitem uma melhor experiência do usuário em termos de navegabilidade:
+	  - Os servidores de Web Cache também são conhecidos como proxy servers;
+	  - Apesar dos cookies possuírem diversas vantagens, seus dados podem ser utilizados por um atacante
+	    malicioso em uma eventual invasão ao sistema;
+	  - O cache permite que conteúdos mais comumente solicitados sejam armazenados no cache server. Dessa 
+	    forma, além de outras vantagens melhorar a experiência do usuário;
+          - As principais vantagens da utilização de caches estão na redução do tempo de resposta e redução de
+            tráfego originado pela comunicação HTTP.
+	* A CA - Certification Authority ou Entidades certificadoras garante a autenticidade das chaves de outras
+entidades.
+	* Uma mensagem HTTP é formada pelo Request ou Status line, Header Line, assim como a Entity. Dentro do Entity
+são definidos o entity header e entity body. O entity header possui os metadados relacionados ao payload, contido no 
+entity body, que está sendo enviado/recebido pelo servidor.
+	* Uma conexão WebSocket utiliza toda a infraestrutura criada para o protocolo HTTP e seu funcionamento se dá 
+através da troca de mensagens HTTP que o cliente indica ao servidor a utilização do protocolo WebSocket. Por sua vez, 
+o servidor realiza o upgrade da conexão utilizando o WebSocket API.
+	* O HTTP possui a propriedade Stateless, nisso, o servidor não mantém o estado do cliente. Um reenvio de uma
+requisição será respondida pelo servidor normalmente.
+	*Em um cenário anterior ao protocolo WebSocket, conexões HTTP eram utilizadas para suprir as demandas de 
+aplicações baseadas em navegadores(browsers). Dentro deste contexto, os problemas existentes em uma conexão HTTP para 
+cenário de comunicação constante com o servidor(caso dos web browsers app) são: 
+	  - Alto overhead;
+	  - Conexões subjacentes;
+	  - Mapeamento das conexões por script no lado do cliente.
+	* O HTTP é um protocolo web que permite comunicação entre pontas na internet. Ele possui duas versões principais,
+o HTTP 1.1 e 2.0.
+	* As principais atualizações de versões quando se trata do HTTP 1.1 e 2.0, respectivamente são:
+	  - Introdução do CORS e Kepp-alive no HTTP 1.1;
+	  - Na versão 2.0 a transferência das requisições via streaming dentro de uma mesma conexão TCP e a feature PUSH 
+lado server/cliente.
+	* Proteger as mensagens HTTP com SSL é fundamental para evitar fishing e manter privacidade dos usuários através 
+da criptografia.
+
+
+
