@@ -1,0 +1,8 @@
+			Curso 3 - Fundamentos de Automação de Testes
+
+		
+		*Slide:
+		https://academiapme-my.sharepoint.com/:p:/g/personal/kawan_dio_me/EQu8eSzDkjlEjLghshWZe4ABgi2qieanpEBePYwYs36V5A?rtime=tv8sahT82kg
+		*Outros:
+		https://github.com/webdriverio/jasmine-boilerplate
+		https://github.com/anandbagmar/cuke-jvm-sample
