@@ -1,0 +1,9 @@
+			Curso 4 - Testes de API - Dos Manuais aos Automatizados
+
+
+		*Slide:
+		https://academiapme-my.sharepoint.com/personal/kawan_dio_me/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fkawan%5Fdio%5Fme%2FDocuments%2FSlides%20dos%20Cursos%2FTestes%20de%20API%2Epptx%2Epdf&parent=%2Fpersonal%2Fkawan%5Fdio%5Fme%2FDocuments%2FSlides%20dos%20Cursos&ga=1
+			
+		Outros:
+		https://petstore.swagger.io/#/user/deleteUser
+		https://www.postman.com/downloads/
