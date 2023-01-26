@@ -1,0 +1,19 @@
+		    Curso 5 - Automação de Testes com Selenium WebDriver e Java
+
+
+		*Slide:
+		https://academiapme-my.sharepoint.com/:p:/g/personal/nubia_dio_me/EXBBPGE1NApHpAo5y61MKdUBPiQIDKp0RJt8qWN8qYcuYg?rtime=PxPFSTL_2kg
+
+		*Outros:
+		https://automationpanda.com/2021/12/29/want-to-practice-test-automation-try-these-demo-sites/
+		https://automationpratice.com/Womens_Clothing_Deals.cfm?fp=tOUTkdB3pl1Jses8KUTjasDVFkJKjOUEt%2FihmzFJEZ6SRtQhNSm5CMwgpYrr2CqwuGZPJwcPJIipSYewJcdkHgvMtc5aPjRjJ%2FFVsQCqh1AnTwjtvmpMEbcCbRl4VYKcIKSQ8JHpKOg6iy%2BGfIAGdgXKYeAOojadJyf6MP108G6nWMG2B7plO6Sxh1KkxwT8162yhDs9vXg4Z7q%2BsAuSiQ%3D%3D&yep=eLTZDaU3usRUqRYJEGkFtp8qKXTG5QOqiLESW7ae8buVoQjQVLq45LyssSxjAqG1i68SVmtP1YlgBq0rJlZfGYQmZlymgsI78prD7IVmvTt4qmNd8oiiu08oh2QZyQGNOJbgBD%2BVATxdMC%2Bg5DEFjjtPO1WEvSNkUCKnewD3CfO3jJqlOAd6jvvFX7dmBCoW%2Be%2FEnrkD7QRasZ%2BH5FE0tjJvVWAf112%2BypktngxAS3Gr%2FJitaTxrWcWdipD7t9uX2v66Cz%2BP1b3AAPD4wBnt4ozm%2BWSQCY%2Bpjoo8f7AIZCQ2m5F4fwuAXvGI0qG5XkxdrUx4%2BLIM4fioBumi4GE6%2FdfH%2F9pFm8cUraDgMOfwSVhvJ5nh6qPAXbz62ubeGxNjNmW5qFlx9YYoybiIT6HPQyOd5wkSBpzc3ayKFb2HNAs99ATJEkEfw%2FiwKgCRaS2V5pL61V4vVSQGSaft%2B%2BbBb2dPc4FIWXQkzq7S1w0yx5Mic5pYQmYAgm%2FJ1Wl%2Ba%2BXdglxlgqEzD%2FaOiiGeI1fpDjKTcxCuauaVAI4rOE9ND5ptGAzngzXW7SYmy45YpGwdd59sfqOZ7d6Jr4jibkG064v%2BniRRZFKguLC4MxHH%2BnFYwGwhr4gFEMUItarBdXLcWzoBsgBhHFWdgUzed87pKLNwzwGonVl9%2B4MMaI%2FcXe9rOAbHRBCG4zResn2lNNK5AiunpCNwcMKu561TPYQkPwa2pGTNuwBadzXuL2q%2Bp6hKWXL2rgRfrDzaOXpQrCJF80OOG%2FKnpCmsKZGG9JeChdDPMtdpeFgryoISQjvi2R%2FfX2SRuUGvNIHQokgvfgrzMfxddD671cYic4cV8sRav1GTkkCybZC2unyz4ngYUImw%2FEOt1TyVZmNYCaNzC2pYeSkUPQAPCcxAu8US%2F114zyH%2Bk8cVKuN9vD7aEUSroZHH%2BORLAFokl44ffe%2Fv8vXwiadA9sPEYZzt7wt7%2B1ZkBNYTZN5SNjXDT0bKXo98hgo%3D&gtnp=0&gtpp=0&kbetu=1&maxads=0&kld=1003&yprpnd=iEL60I0UvfpDRlTk%2B6L4vhVmP6NEEBHQ32AprH2vdLI%3D&prvtof=MYXjcQwulv6IX0PCCpmrAPYKu0foqL%2FR1j%2FqJmynD%2Fk%3D&&gtnp=0&gtpp=0&kt=210&&kbc=8922&ki=184692111&ktd=0&kld=1003&kp=1&bd=-3%23864%231536%231%231%23793%23233
+		https://noracora.com/ (Site para praticar teste automatizado)
+		https://www.selenium.dev/documentation/webdriver/ (Selenium WebDriver)
+		https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/  (documentação do Selenium)
+		https://chromedriver.storage.googleapis.com/index.html?path=109.0.5414.74/ (download do Chrome Driver)
+		https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-chrome-driver/4.5.0 (dependência Selenium Chrome Driver » 4.5.0)  ---> Maven
+		https://mvnrepository.com/artifact/junit/junit  (dependência Junit 4.11)  ---> Maven
+		https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-support/4.5.0 (dependência Selenium Support » 4.5.0) ---> Maven
+		https://www.lambdatest.com/blog/locating-elements-by-tagname-in-selenium/
+		https://gist.github.com/cami-la/119f7cb54b994ff44fda12f23e9689da (material do curso)
+		https://github.com/cami-la/testes_selenium_webdriver_java_curso (material do curso)
