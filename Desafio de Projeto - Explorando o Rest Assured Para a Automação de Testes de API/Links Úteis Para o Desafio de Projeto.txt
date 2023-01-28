@@ -14,3 +14,6 @@
 	https://www.alura.com.br/artigos/react-native-rest-apis-json-server#:~:text=Para%20instalar%20o%20JSON%20server,de%20rodar%20o%20comando%20acima. (Json Server - informações)
 	https://cursos.alura.com.br/forum/topico-estou-tendo-problemas-ao-executar-o-comando-json-server-watch-db-json-140750 (Resolução de problemas - Json Server)
 	https://www.geeksforgeeks.org/json-server-setup-and-introduction/ (Resolução de problemas - Json Server)
+
+
+	Link para o projeto: https://github.com/danielle-victoria/Explorando-o-Rest-Assured-Para-a-Automacao-de-Testes-de-API
