@@ -1,0 +1,16 @@
+	Desafio de Projeto - Explorando o Rest Assured Para a Automação de Testes de API
+	
+	*Slide:
+	https://academiapme-my.sharepoint.com/:p:/g/personal/kawan_dio_me/EZdKR9y_VuFOnjnEII7LgWQBbh-QXKAWzqvVOeB2cm-roQ?rtime=-4j-saUA20g
+	
+	*Outros: 
+	https://restful-booker.herokuapp.com/apidoc/index.html (documentação da API)
+	https://www.npmjs.com/package/json-server (JSON Server)
+	https://www.npmjs.com/package/json-server-auth(JSON Server Auth)
+	https://www.jsonschema.net/ (converter Json em Schema)
+	https://www.liquid-technologies.com/online-json-to-schema-converter (converter Json em Schema)
+	https://github.com/SrtaZuzza/materiais-apoio-proj-restfull-booker/tree/main/SuiteTestes
+	https://github.com/steffijoji/restful-booker-api-automation-tests
+	https://www.alura.com.br/artigos/react-native-rest-apis-json-server#:~:text=Para%20instalar%20o%20JSON%20server,de%20rodar%20o%20comando%20acima. (Json Server - informações)
+	https://cursos.alura.com.br/forum/topico-estou-tendo-problemas-ao-executar-o-comando-json-server-watch-db-json-140750 (Resolução de problemas - Json Server)
+	https://www.geeksforgeeks.org/json-server-setup-and-introduction/ (Resolução de problemas - Json Server)
