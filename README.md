@@ -5,3 +5,4 @@
 - Curso 3 - Fundamentos de Automação de Testes
 - Curso 4 - Testes de API: Dos Manuais aos Automatizados
 - Curso 5 - Automação de Testes com Selenium WebDriver e Java
+- Desafio de Projeto - Explorando o Rest Assured Para a Automação de Testes de API
